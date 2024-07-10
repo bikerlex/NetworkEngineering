@@ -136,3 +136,10 @@ GitHub.sublime-settings
 !.vscode/launch.json
 !.vscode/extensions.json
 .history
+/.idea/.gitignore
+/.idea/03_NetworkEngineering.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
